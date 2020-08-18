@@ -49,15 +49,15 @@ public class Calculator extends AppCompatActivity {
                     case R.id.addition_button :
                         answerInt = firstValueInt + secondValueInt;
                         break;
-                    case R.id.substraction_button:
-                        answerInt = firstValueInt - secondValueInt;
-                        break;
-                    case R.id.multiply_button:
-                        answerInt = firstValueInt * secondValueInt;
-                        break;
-                    default:
-                        answerInt = firstValueInt / secondValueInt;
-                        break;
+//                    case R.id.substraction_button:
+//                        answerInt = firstValueInt - secondValueInt;
+//                        break;
+//                    case R.id.multiply_button:
+//                        answerInt = firstValueInt * secondValueInt;
+//                        break;
+//                    default:
+//                        answerInt = firstValueInt / secondValueInt;
+//                        break;
 
                 }
 
